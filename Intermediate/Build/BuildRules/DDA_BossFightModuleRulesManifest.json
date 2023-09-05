@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\DissertationArtefact\\DDA_BossFight\\Source\\DDA_BossFight\\DDA_BossFight.Build.cs",
+		"D:\\DissertationArtefact\\DDA_BossFight\\Source\\DDA_BossFight.Target.cs",
+		"D:\\DissertationArtefact\\DDA_BossFight\\Source\\DDA_BossFightEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}

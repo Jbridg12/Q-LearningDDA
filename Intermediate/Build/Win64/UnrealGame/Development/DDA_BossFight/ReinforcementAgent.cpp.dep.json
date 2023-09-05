@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\dissertationartefact\\dda_bossfight\\source\\dda_bossfight\\private\\reinforcementagent.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\dissertationartefact\\dda_bossfight\\intermediate\\build\\win64\\dda_bossfight\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\dissertationartefact\\dda_bossfight\\intermediate\\build\\win64\\unrealgame\\development\\dda_bossfight\\definitions.dda_bossfight.h",
+            "d:\\dissertationartefact\\dda_bossfight\\source\\dda_bossfight\\public\\reinforcementagent.h",
+            "d:\\dissertationartefact\\dda_bossfight\\intermediate\\build\\win64\\unrealgame\\inc\\dda_bossfight\\uht\\reinforcementagent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

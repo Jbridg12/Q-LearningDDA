@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\dissertationartefact\\dda_bossfight\\intermediate\\build\\win64\\unrealgame\\inc\\dda_bossfight\\uht\\dda_bossfight.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\dissertationartefact\\dda_bossfight\\intermediate\\build\\win64\\dda_bossfight\\shipping\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\dissertationartefact\\dda_bossfight\\intermediate\\build\\win64\\unrealgame\\shipping\\dda_bossfight\\definitions.dda_bossfight.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
