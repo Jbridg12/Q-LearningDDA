@@ -72,3 +72,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Store Assets
+Content/InfinityBladeEffects/*
+Content/InfinityBladeWeapons/*
+Content/ParagonGrux/*
+Content/ParagonRevenant/*
+Content/ParagonSevarog/*
