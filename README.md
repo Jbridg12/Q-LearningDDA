@@ -1,7 +1,11 @@
 # Q-LearningDDA
 DDA game artefact implmented using Q-learning algorithm. Created for MSc dissertation.
+The visual stuio solution does not have all the intermediate files on this repoistory due to absurdly large individual file size.
 
+The indivdual class files can be observed as standalone .cpp and .h files.
 
-Visual Studio was pushed with minmal requirements from default UE5 .gitignore.
+C++ code can be found at 
 
-Some installation of Visual Studio features may be required to access the source files.
+Source\DDA_BossFight\Private\RLGameInstance.cpp 
+and 
+Source\DDA_BossFight\Public\RLGameInstance.h
